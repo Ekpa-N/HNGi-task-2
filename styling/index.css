@@ -242,7 +242,7 @@ a img {
     height: 50%;
     display: flex;
     align-items: center;
-    width: 200px;
+    width: 310px;
     margin-left: 10px;
     color: grey;
 }
@@ -584,7 +584,7 @@ footer img {
         height: 50%;
         display: flex;
         align-items: center;
-        width: 200px;
+        width: 310px;
         margin-left: 10px;
     }
 
@@ -911,7 +911,7 @@ footer img {
     height: 50%;
     display: flex;
     align-items: center;
-    width: 200px;
+    width: 310px;
     margin-left: 10px;
 }
 
@@ -1259,13 +1259,18 @@ footer img {
         height: 50%;
         display: flex;
         align-items: center;
-        width: 200px;
+        width: 310px;
         margin-left: 10px;
     }
 
     .skill-rate:hover {
         border: 3px solid #ae8094;
         height: 15%;
+    }
+
+    #assignment {
+        font-size: 14px;
+        font-weight: bold;
     }
 
     .stack img {
