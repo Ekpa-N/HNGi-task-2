@@ -132,7 +132,7 @@ a img {
 
 #what-i-do h1 {
     margin-left: 10px;
-    /* border-bottom: 1px solid black; */
+    border-bottom: 1px solid #5a443e;
     width: 210px;
 }
 
@@ -160,7 +160,7 @@ a img {
 
 #expertise-2, #expertise-3 {
     width: 30%;
-    border-left: 1px solid black;
+    border-left: 1px solid #ae8094;
 }
 
 
@@ -213,7 +213,7 @@ a img {
 
 #what-i-know h1 {
     margin-left: 10px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #5a443e;
     width: 210px;
 }
 
@@ -510,7 +510,7 @@ footer img {
   
     #what-i-do h1 {
         margin-left: 10px;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #5a443e;
         width: 210px;
     }
   
@@ -538,7 +538,7 @@ footer img {
   
     #expertise-2, #expertise-3 {
         width: 30%;
-        border-left: 1px solid black;
+        border-left: 1px solid #ae8094;
     } 
 
 
@@ -555,7 +555,7 @@ footer img {
     
     #what-i-know h1 {
         margin-left: 10px;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #5a443e;
         width: 210px;
     }
     
@@ -832,7 +832,7 @@ footer img {
 
   #what-i-do h1 {
       margin-left: 10px;
-      border-bottom: 1px solid black;
+      border-bottom: 1px solid #5a443e;
       width: 210px;
   }
 
@@ -860,7 +860,7 @@ footer img {
 
   #expertise-2, #expertise-3 {
       width: 30%;
-      border-left: 1px solid black;
+      border-left: 1px solid #ae8094;
   }
 
 
@@ -882,7 +882,7 @@ footer img {
 
 #what-i-know h1 {
     margin-left: 10px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #5a443e;
     width: 210px;
 }
 
@@ -1188,7 +1188,7 @@ footer img {
   
     #what-i-do h1 {
         margin-left: 10px;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #5a443e;
         width: 210px;
     }
   
@@ -1218,7 +1218,7 @@ footer img {
   
     #expertise-2, #expertise-3 {
         width: 100px;
-        border-left: 1px solid black;
+        border-left: 1px solid #ae8094;
     }
 
     #what-i-know {
@@ -1230,7 +1230,7 @@ footer img {
 
     #what-i-know h1 {
         margin-left: 10px;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #5a443e;
         width: 210px;
     }
 
